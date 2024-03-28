@@ -1,0 +1,227 @@
+[
+  {
+    "address": "9147 Cochran Heights Dr, Dallas, TX 75220",
+    "bedrooms": "3 bds - 4 ba - 2,730 sqft",
+    "price": "$639,985"
+  },
+  {
+    "address": "2424 Birmingham Ave, Dallas, TX 75215",
+    "bedrooms": "3 bds - 2 ba - 1,350 sqft",
+    "price": "$225,000"
+  },
+  {
+    "address": "1233 Flamingo Rd, Forney, TX 75126",
+    "bedrooms": "5 bds - 4 ba - 4,277 sqft",
+    "price": "$600,000"
+  },
+  {
+    "address": "2520 Partridge Ave, Arlington, TX 76017",
+    "bedrooms": "3 bds - 2 ba - 2,002 sqft",
+    "price": "$299,900"
+  },
+  {
+    "address": "3716 Canada Dr, Dallas, TX 75212",
+    "bedrooms": "3 bds - 3 ba - 2,150 sqft",
+    "price": "$479,999"
+  },
+  {
+    "address": "808 Stratford Dr, Bedford, TX 76021",
+    "bedrooms": "3 bds - 2 ba - 1,908 sqft",
+    "price": "$290,000"
+  },
+  {
+    "address": "5416 Summer Meadows Dr, Fort Worth, TX 76123",
+    "bedrooms": "4 bds - 3 ba - 2,414 sqft",
+    "price": "$360,000"
+  },
+  {
+    "address": "4406 Spring Creek Rd, Arlington, TX 76017",
+    "bedrooms": "3 bds - 3 ba - 2,053 sqft",
+    "price": "$369,000"
+  },
+  {
+    "address": "30 Ellis Oak Ct, Waxahachie, TX 75167",
+    "bedrooms": "5 bds - 3 ba - 2,590 sqft",
+    "price": "$625,000"
+  },
+  {
+    "address": "9147 Cochran Heights Dr, Dallas, TX 75220",
+    "bedrooms": "3 bds - 4 ba - 2,730 sqft",
+    "price": "$639,985"
+  },
+  {
+    "address": "10924 Mill Pond Way, Orlando, FL 32825",
+    "bedrooms": "3 bds - 2 ba - 1,791 sqft",
+    "price": "$129K"
+  },
+  {
+    "address": "1721 Brightwaters Blvd NE, Saint Petersburg, FL 33704",
+    "bedrooms": "6 bds - 9 ba - 7,087 sqft",
+    "price": "$11,900,000"
+  },
+  {
+    "address": "413 N Arthur Cir, Corona, CA 92879",
+    "bedrooms": "4 bds - 3 ba - 1,990 sqft",
+    "price": "$699,999"
+  },
+  {
+    "address": "5556 Wentworth Dr, Riverside, CA 92505",
+    "bedrooms": "4 bds - 2 ba - 1,914 sqft",
+    "price": "$675,000"
+  },
+  {
+    "address": "5 Robert Ct, Roxbury Twp., NJ 07876-1121",
+    "bedrooms": "3 bds - 2 ba - -- sqft",
+    "price": "$575,000"
+  },
+  {
+    "address": "10451 Bedford Rd, Spring Hill, FL 34608",
+    "bedrooms": "4 bds - 2 ba - 2,463 sqft",
+    "price": "$360,000"
+  },
+  {
+    "address": "5865 Wood Sorrel Drive, Littleton, CO 80123",
+    "bedrooms": "4 bds - 2 ba - 1,978 sqft",
+    "price": "$875,000"
+  },
+  {
+    "address": "344 Minuteman Dr, Collegeville, PA 19426",
+    "bedrooms": "4 bds - 3 ba - 2,328 sqft",
+    "price": "$550,000"
+  },
+  {
+    "address": "5 Robert Ct, Roxbury Twp., NJ 07876-1121",
+    "bedrooms": "3 bds - 2 ba - -- sqft",
+    "price": "$575,000"
+  },
+  {
+    "address": "270 Monmouth Rd, Wrightstown, NJ 08562",
+    "bedrooms": "2 bds - 2 ba - 1,415 sqft",
+    "price": "$450,000"
+  },
+  {
+    "address": "10 Edgewood Ter, Montclair Twp., NJ 07042",
+    "bedrooms": "8 bds - 9 ba - 12,000 sqft",
+    "price": "$2,499,000"
+  },
+  {
+    "address": "23 Spruce Rd, Burlington, NJ 08016",
+    "bedrooms": "3 bds - 1 ba - 1,346 sqft",
+    "price": "$360,000"
+  },
+  {
+    "address": "76 Kings Hwy, Washington Twp., NJ 07853-3428",
+    "bedrooms": "4 bds - 3 ba - -- sqft",
+    "price": "$650,000"
+  },
+  {
+    "address": "17 Highland Ave, Bloomingdale Boro, NJ 07403-1109",
+    "bedrooms": "3 bds - 1 ba - -- sqft",
+    "price": "$280,000"
+  },
+  {
+    "address": "191 River Road, Red Bank, NJ 07701",
+    "bedrooms": "3 bds - 3 ba - 2,513 sqft",
+    "price": "$949,000"
+  },
+  {
+    "address": "77 City Blvd, Staten Island, NY 10301",
+    "bedrooms": "3 bds - 1 ba - 1,176 sqft",
+    "price": "$99,000"
+  },
+  {
+    "address": "9 Miranda Ln, Stratford, CT 06615",
+    "bedrooms": "3 bds - 3 ba - 1,406 sqft",
+    "price": "$273,000"
+  },
+  {
+    "address": "9147 Cochran Heights Dr, Dallas, TX 75220",
+    "bedrooms": "3 bds - 4 ba - 2,730 sqft",
+    "price": "$639,985"
+  },
+  {
+    "address": "30 Ellis Oak Ct, Waxahachie, TX 75167",
+    "bedrooms": "5 bds - 3 ba - 2,590 sqft",
+    "price": "$625,000"
+  },
+  {
+    "address": "5416 Summer Meadows Dr, Fort Worth, TX 76123",
+    "bedrooms": "4 bds - 3 ba - 2,414 sqft",
+    "price": "$360,000"
+  },
+  {
+    "address": "724 Timberoaks Dr, Azle, TX 76020",
+    "bedrooms": "3 bds - 2 ba - 1,385 sqft",
+    "price": "$265,000"
+  },
+  {
+    "address": "2424 Birmingham Ave, Dallas, TX 75215",
+    "bedrooms": "3 bds - 2 ba - 1,350 sqft",
+    "price": "$225,000"
+  },
+  {
+    "address": "3528 Metropolitan Ave, Dallas, TX 75210",
+    "bedrooms": "3 bds - 2 ba - 1,300 sqft",
+    "price": "$274,999"
+  },
+  {
+    "address": "2109 Carrie Creek Dr, Little Elm, TX 75068",
+    "bedrooms": "3 bds - 2 ba - 1,366 sqft",
+    "price": "$330,000"
+  },
+  {
+    "address": "512 Ravenwood Dr, Dallas, TX 75217",
+    "bedrooms": "4 bds - 2 ba - 1,875 sqft",
+    "price": "$369,000"
+  },
+  {
+    "address": "2520 Partridge Ave, Arlington, TX 76017",
+    "bedrooms": "3 bds - 2 ba - 2,002 sqft",
+    "price": "$299,900"
+  },
+  {
+    "address": "7502 Redwing Ln, Humble, TX 77396",
+    "bedrooms": "4 bds - 2 ba - 1,986 sqft",
+    "price": "$269,990"
+  },
+  {
+    "address": "15415 Liberty Prairie Ct, Houston, TX 77049",
+    "bedrooms": "5 bds - 4 ba - 3,242 sqft",
+    "price": "$389,000"
+  },
+  {
+    "address": "10211 Sugar Branch Dr APT 366, Houston, TX 77036",
+    "bedrooms": "2 bds - 1 ba - 994 sqft",
+    "price": "$80,000"
+  },
+  {
+    "address": "15738 Pipers View Dr, Webster, TX 77598",
+    "bedrooms": "4 bds - 2 ba - 2,068 sqft",
+    "price": "$295,000"
+  },
+  {
+    "address": "9106 Southbluff Blvd, Houston, TX 77089",
+    "bedrooms": "4 bds - 3 ba - 2,890 sqft",
+    "price": "$290,000"
+  },
+  {
+    "address": "5418 Tommye St, Houston, TX 77028",
+    "bedrooms": "3 bds - 3 ba - 1,418 sqft",
+    "price": "$207,500"
+  },
+  {
+    "address": "1411 Spillers Ln, Houston, TX 77043",
+    "bedrooms": "3 bds - 2 ba - 1,567 sqft",
+    "price": "$435,000"
+  },
+  {
+    "address": "15942 Yore Ln, Houston, TX 77044",
+    "bedrooms": "4 bds - 3 ba - 2,309 sqft",
+    "price": "$285,000"
+  },
+  {
+    "address": "5414 Tommye St, Houston, TX 77028",
+    "bedrooms": "3 bds - 3 ba - 1,460 sqft",
+    "price": "$215,000"
+  }
+]
